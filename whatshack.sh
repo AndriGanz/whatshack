@@ -3,8 +3,8 @@ clear
 echo "
 <-- Ganteng -->
 ####################
-#   Whatsapp Code  # By ./C3W3KBerB4T4n9
-#     Exploiter    # ceweberbatang59@gmail.com
+#   Whatsapp Code  # By ./David
+#     Exploiter    # mhanifmarribaloch@gmail.com
 ####################
 
 Copyright (c) 2018 ./C3W3KBERB4T4N9 Ganteng";
